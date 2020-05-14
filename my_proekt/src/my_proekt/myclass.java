@@ -260,6 +260,7 @@ public class myclass {
 	    	    		sum_n.setText(s_sum_n); /* «аписываем строковую переменную в пол€ Jlabel */
 	    	    		String s_sum = String.format("%.2f", d_sum);
 	    	    		sum.setText(s_sum); /* «аписываем строковую переменную в пол€ Jlabel */ 	    		
+	    	    	
 	    	    	}
 	    	    	}   	    	                             
 	    	   }); 
